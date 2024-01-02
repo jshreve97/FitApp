@@ -1,0 +1,22 @@
+{
+    "short_name": "FitApp",
+    "name": "Fitness Tracker",
+    "icons": [
+      {
+        "src": "icon/lowres.webp",
+        "sizes": "48x48",
+        "type": "image/webp"
+      },
+      {
+        "src": "download.png",
+        "sizes": "72x72 96x96 128x128 256x256",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": "index.html",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
+  }
+  
